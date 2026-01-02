@@ -11,19 +11,6 @@ across companies, industries, and time periods.
 - **Description:** Contains information on company layoffs including industry, country,
   total laid off, percentage laid off, and date.
 
-## Project Structure
-sql-layoffs-analysis/
-│
-├── data/
-│ └── layoffs.csv
-│
-├── sql/
-│ ├── data_cleaning.sql
-│ ├── eda.sql
-│ └── percentage_layoff_analysis.sql
-│
-└── README.md
-
 ## SQL Files Description
 
 ### 1. data_cleaning.sql
