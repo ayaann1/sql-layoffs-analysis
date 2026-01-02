@@ -24,9 +24,6 @@ sql-layoffs-analysis/
 │
 └── README.md
 
-pgsql
-Copy code
-
 ## SQL Files Description
 
 ### 1. data_cleaning.sql
